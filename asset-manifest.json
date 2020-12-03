@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5aee932c.chunk.css",
+    "main.js": "/static/js/main.35a5ddb3.chunk.js",
+    "main.js.map": "/static/js/main.35a5ddb3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e0da1f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e0da1f5.js.map",
+    "static/js/2.1a4671ac.chunk.js": "/static/js/2.1a4671ac.chunk.js",
+    "static/js/2.1a4671ac.chunk.js.map": "/static/js/2.1a4671ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a44788edfd45a4d981249a6260f06bb1.js": "/precache-manifest.a44788edfd45a4d981249a6260f06bb1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5aee932c.chunk.css.map": "/static/css/main.5aee932c.chunk.css.map",
+    "static/js/2.1a4671ac.chunk.js.LICENSE.txt": "/static/js/2.1a4671ac.chunk.js.LICENSE.txt",
+    "static/media/Profile.png": "/static/media/Profile.3d9a511a.png",
+    "static/media/Teampic.91bd36d0.svg": "/static/media/Teampic.91bd36d0.svg",
+    "static/media/ad.jpg": "/static/media/ad.bede6438.jpg",
+    "static/media/ambulancessvg.svg": "/static/media/ambulancessvg.bb0f91aa.svg",
+    "static/media/facebook-brands.svg": "/static/media/facebook-brands.4d38b0c3.svg",
+    "static/media/hospitalmarkersvg.svg": "/static/media/hospitalmarkersvg.433034ac.svg",
+    "static/media/instagram.svg": "/static/media/instagram.0d9edfe8.svg",
+    "static/media/linkedin-brands.svg": "/static/media/linkedin-brands.80979df7.svg",
+    "static/media/phone-solid.svg": "/static/media/phone-solid.6f5ecd1a.svg",
+    "static/media/twitter-square-brands.svg": "/static/media/twitter-square-brands.892b886f.svg",
+    "static/media/usermarkersvg.svg": "/static/media/usermarkersvg.4682fb8a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0da1f5.js",
+    "static/js/2.1a4671ac.chunk.js",
+    "static/css/main.5aee932c.chunk.css",
+    "static/js/main.35a5ddb3.chunk.js"
+  ]
+}
